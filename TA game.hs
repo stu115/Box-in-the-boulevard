@@ -92,7 +92,7 @@ start = do
     -- start of game where player types in --
     putStrLn "Please type in the name you would like to be called: "	 
     playingCharacter <- getLine
-    putStrLn ("Hi" ++ playingCharacter ++ ". Welcome to this building. You have today to find the box of LPs to be sold in the record shop you work in. Are you ready?")
+    putStrLn ("Hi" ++ playingCharacter ++ ". Welcome to this boulevard. You have today to find the box of LPs to be sold in the record shop you work in. Are you ready?")
 
     let startingArea = study
     
