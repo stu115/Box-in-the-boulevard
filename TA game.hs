@@ -1,5 +1,5 @@
 -- =================================
--- Text adventure game
+-- Box in the boulevard text adventure
 -- =================================
 
 
